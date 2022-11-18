@@ -1,0 +1,9 @@
+.bar {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border: 2px solid black;
+    width: 100%;
+
+}
+
